@@ -4,3 +4,10 @@
   font-family: "poppins", sans-serif;
   box-sizing: border-box;
 }
+
+.container {
+  width: 100%;
+  min-height: 100vh;
+  background: linear-gradient(135deg, #152677, #4e085f);
+  padding: 10px;
+}
